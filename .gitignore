@@ -12,3 +12,4 @@ RELIC-INFO
 relic/
 *.wpr
 *wpu
+.ipynb_checkpoints/
