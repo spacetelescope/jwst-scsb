@@ -2,3 +2,4 @@ crds~=10.0
 jwst~=0.17
 asdf~=2.7
 astropy~=4.0
+notebook
