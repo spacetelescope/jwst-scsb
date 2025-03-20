@@ -1,4 +1,4 @@
-# jwst-pipeline-notebooks
+# THIS REPOSITORY HAS BEEN ARCHIVED AND IS NO LONGER IN USE
 
 ## This is a repository for storing Jupyter Notebooks that show how to use the JWST calibration pipeline
 
